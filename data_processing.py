@@ -9,6 +9,6 @@ b = 5
 
 def sum(a,b):
     c= a + b
-    return a
+    return c
 
-print("added an incorrect code")
+print("corrected the code")
